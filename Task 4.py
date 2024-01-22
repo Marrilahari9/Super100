@@ -86,7 +86,7 @@ courses.append(c3)
 # Create some sample students
 s1 = Student("Lahari", 1)
 s2 = Student("Simran", 2)
-s3 = Student("Nag", 3)
+s3 = Student("Naga", 3)
 
 # Add the students to the list of students
 students.append(s1)
